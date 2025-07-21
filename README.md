@@ -143,7 +143,7 @@ DVC
     - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/chicken
 
 	
-## 4. Create EC2 machine (Ubuntu) 
+## 4. Create EC2 machine  
 
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
@@ -181,4 +181,4 @@ DVC
     ECR_REPOSITORY_NAME = simple-app
 
 
-#
+
